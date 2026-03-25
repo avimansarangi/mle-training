@@ -1,0 +1,11 @@
+# Python cache files
+*.pyc
+__pycache__/
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# CSV data files in current folder
+*.csv
