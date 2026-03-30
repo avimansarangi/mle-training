@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: ml-workflow
+Version: 0.1.0
+Summary: Production-ready ML workflow package with ingest, train, and score steps
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: pyyaml
+Requires-Dist: loguru
