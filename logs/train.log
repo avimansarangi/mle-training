@@ -1,0 +1,3 @@
+2026-03-31 10:11:19,728 | INFO | train | Loading training data from data/processed/train.csv
+2026-03-31 10:11:19,734 | INFO | train | Training Logistic Regression model
+2026-03-31 10:11:19,758 | INFO | train | Model saved to artifacts/models/model.pkl
